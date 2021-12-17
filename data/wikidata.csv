@@ -1,1 +1,2 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,psid
+Q20611394,Sherali Mirzo,Sherali Mirzo,https://en.wikipedia.org/wiki/Sherali_Mirzo,2021-10-05,Q20606212,Minister of Defense of Tajikistan,Q20611394-96635ADE-C84F-492F-B2B7-E85E9B3B8833
