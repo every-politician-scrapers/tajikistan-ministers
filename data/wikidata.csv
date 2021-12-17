@@ -1,4 +1,22 @@
 wdid,name,wdLabel,source,sourceDate,pid,position,psid
-Q15222839,Kokhir Rasulzoda,Kokhir Rasulzoda,,,Q2734978,Prime Minister of Tajikistan,Q15222839-291c89b4-49c5-7230-fece-2e5951b312a8
-Q18198123,Sirodjidin Aslov,Sirodjidin Aslov,https://en.wikipedia.org/wiki/Sirojiddin_Muhriddin,2021-10-05,Q25593310,Minister of Foreign Affairs of the Republic of Tajikistan,Q18198123-5B845994-9E10-4A10-B7D9-9A3DF7361BF4
-Q20611394,Sherali Mirzo,Sherali Mirzo,https://en.wikipedia.org/wiki/Sherali_Mirzo,2021-10-05,Q20606212,Minister of Defense of Tajikistan,Q20611394-96635ADE-C84F-492F-B2B7-E85E9B3B8833
+Q110159406,Ashuriyon Muzaffar Qurbonmuhammad,Ashuriyon Muzaffar Qurbonmuhammad,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q20606058,Minister of Justice,Q110159406-8300BAB9-3B6D-4C65-8597-7E2502514CE9
+Q110159626,Ziyozoda Sulaimon Rizoi,Ziyozoda Sulaimon Rizoi,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q20606076,Minister of Agriculture,Q110159626-BF5F68A7-1969-4D46-8897-367F04FFAF93
+Q110159906,Abdullozoda Jamoliddin Abdullo,Abdullozoda Jamoliddin Abdullo,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q20606196,Minister of Health and Social Protection of the Population,Q110159906-F65EA8D8-9BD2-4CEA-8C17-2808266B4175
+Q110159963,Sattoriyon Matlubahon Amonzoda,Matloubkhon Sattoriyon,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q110159958,Deputy Prime Minister,Q110159963-3161C685-8F61-4DE0-ADA2-F9E00396EBFF
+Q110160067,Zavkizoda Zavki Amin,Zavkizoda Zavki Amin,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q20606175,Minister of Economic Development and Trade,Q110160067-61005C4B-B0CC-4EA6-A900-C6A45E5D748C
+Q110160082,Kabir Sherali,Sherali Kabirov,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q110159098,Minister of Industry and New Technologies,Q110160082-302ED1E3-E92E-4DD4-A8BE-F1BCB8066C6B
+Q110160952,Juma Daler Shofakir,Daler Jumayev,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q25612366,Minister of Energy and Water Resources,Q110160952-7D8FBD7E-F9B2-4953-9E1E-5C76C498662F
+Q110160957,Amonzoda Shirin Shodi,Shirin Amonzoda,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q20606157,"Minister of Labor, Migration and Population Employment",Q110160957-78612462-A9ED-475B-BA66-9EF7281F0C93
+Q110161154,Kodirzoda Sadi Sanginmurod,Sadi Kodirzoda,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q110161157,Chairman of the State Committee for Investments and State Property Management,Q110161154-76742124-5C27-4214-88C7-B3415954F398
+Q110161208,Khojazoda Orif Ashuri,Orif Khojazoda,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q110161209,Chairman of the State Committee for Land Management and Geodesy,Q110161208-AB0BD7CF-C2F4-422F-BAE4-14BA73017B44
+Q110161251,Kahhorzoda Faiziddin Sattor,Faiziddin Kahhorzoda,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q110159050,Minister of Finance,Q110161251-6BBE9C11-E4A0-42D3-BAA5-E2F02612A39C
+Q15222839,Kohir Rasulzoda,Kokhir Rasulzoda,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q2734978,Prime Minister,Q15222839-291c89b4-49c5-7230-fece-2e5951b312a8
+Q18198123,Sirojiddin Muhriddin,Sirodjidin Aslov,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q25593310,Minister of Foreign Affairs,Q18198123-5B845994-9E10-4A10-B7D9-9A3DF7361BF4
+Q20604614,Azim Ibrohim,Azim Ibrohim,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q110159110,Minister of Transport,Q20604614-C6916B3E-E567-4196-A5A3-24FD868C2CD8
+Q20609429,Imomzoda Muhammadyusuf Saydali,Imomzoda Muhammadyusuf Saydali,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q20606126,Minister of Education and Science,Q20609429-01DA52F4-08F1-4C4B-95C0-144151D9BFED
+Q20611394,Sherali Mirzo,Sherali Mirzo,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q20606212,Minister of Defense,Q20611394-96635ADE-C84F-492F-B2B7-E85E9B3B8833
+Q25612207,Davlatali Said,Davlatali Said,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q25612350,First Deputy Prime Minister,Q25612207-89554A1F-86A1-4021-8AE2-A113E8FEEE71
+Q25612364,Usmonzoda Usmonali Yunusali,Usmonali Usmonov,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q110159958,Deputy Prime Minister,Q25612364-27D4DF44-67E2-4F09-BE12-156E77928CED
+Q4539588,Yatimov Saimumin Sattorovich,Saimumin Yatimov,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q20610175,Chairman of the State Committee for National Security,Q4539588-CBB1635F-E791-4E59-B915-A4D42E74A7FE
+Q7289157,Rahimzoda Ramazon Hamro,Ramazon Rahimov,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q20606091,Minister of Internal Affairs,Q7289157-0B40B1D6-F987-47FE-A816-A7B2838D7C6A
+Q86724010,Davlatzoda Zulfiya Davlat,Davlatzoda Zulfiya Davlat,http://prezident.tj/en/taxonomy/term/5/35,2021-12-17,Q110159030,Minister of Culture,Q86724010-88C1A20C-E1F9-42E7-9AE6-ADCBFEA60503
