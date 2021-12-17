@@ -7,17 +7,21 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.xpath('text()').last.text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('strong').text.tidy
     end
   end
 
   class Members
+    def member_items
+      super.reject { |mem| mem.name.to_s.empty? }
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('td.tableGovermentMembers .tdGovermentMemberText')
     end
   end
 end
