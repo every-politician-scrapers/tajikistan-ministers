@@ -1,0 +1,158 @@
+{
+  "title": "Sirojiddin Muhriddin",
+  "pageID": 5491580,
+  "categories": [
+    "Tajikistani diplomats",
+    "Living people",
+    "Permanent Representatives of Tajikistan to the United Nations",
+    "1964 births",
+    "Foreign ministers of Tajikistan",
+    "Government ministers of Tajikistan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sirojiddin Muhriddinovich Aslov (Сироҷидин Мӯҳриддиович Аслов) (Сироджиддин Мухриддинович Аслов) is the Minister of Foreign Affairs of Tajikistan since 2013.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs of Tajikistan",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs of the Republic of Tajikistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sirojiddin Muhriddinovich Aslov"
+                ]
+              }
+            },
+            {
+              "text": "Muhriddin previously worked as a Permanent Representative of the Republic of Tajikistan to the United Nations from 2006 to 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1964",
+          "month": "2",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sirojiddin Muhriddin Сироҷидин Мӯҳридди"
+          },
+          "image": {
+            "text": "File:Sirodjidin Aslov September 2016 (29799875305).jpg"
+          },
+          "caption": {
+            "text": "Muhriddin in 2016"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs of the Republic of Tajikistan",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs of the Republic of Tajikistan",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs of the Republic of Tajikistan"
+              }
+            ]
+          },
+          "president": {
+            "text": "Emomali Rahmon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emomali Rahmon"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 November 2013"
+          },
+          "predecessor": {
+            "text": "Hamrokhon Zarifi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hamrokhon Zarifi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Permanent Representative of Tajikistan to the United Nations",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Permanent Representative of Tajikistan to the United Nations"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "September 2005"
+          },
+          "term_end1": {
+            "text": "August 2013"
+          },
+          "predecessor1": {
+            "text": "Rashid Alimov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rashid Alimov"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Mahmadamin Mahmadaminov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahmadamin Mahmadaminov"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Sirodjidin Mukhridinovich Aslov"
+          },
+          "birth_date": {
+            "text": "February 17, 1964"
+          },
+          "birth_place": {
+            "text": "Sovetskiy District, Tajik SSR, Soviet Union (now Tajikistan)",
+            "links": [
+              {
+                "text": "Sovetskiy District",
+                "type": "internal",
+                "page": "Temurmalik District"
+              },
+              {
+                "type": "internal",
+                "page": "Tajik SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
