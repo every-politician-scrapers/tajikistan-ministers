@@ -1,0 +1,187 @@
+{
+  "title": "Emomali Sobirzoda",
+  "pageID": 58551555,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "Tajikistani generals",
+    "Chiefs of the General Staff (Tajikistan)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lieutenant General Emomali Abdur Rahim Sobirzoda (Tajik: Эмомалӣ Абдураҳим Собирзода; born July 20, 1972) is a Tajik military leader and the current Chief of the General Staff of the Armed Forces of the Republic of Tajikistan.",
+              "links": [
+                {
+                  "text": "Tajik",
+                  "type": "internal",
+                  "page": "Tajik language"
+                },
+                {
+                  "text": "Chief of the General Staff",
+                  "type": "internal",
+                  "page": "Chief of the General Staff (Tajikistan)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Armed Forces of the Republic of Tajikistan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Emomali Abdur Rahim Sobirzoda"
+                ]
+              }
+            },
+            {
+              "text": "He also serves as First Deputy Minister of Defense, serving since November 2015 when he replaced Major General Zarif Bobokalonov."
+            },
+            {
+              "text": "He recently oversaw the development of military relations between Tajikistan, Russia, the United States and Uzbekistan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tajikistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russia"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uzbekistan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "df": "yes",
+          "year": "1972",
+          "month": "07",
+          "day": "20",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Emomali Sobirzoda"
+          },
+          "office": {
+            "text": "Chief of the General Staff",
+            "links": [
+              {
+                "text": "Chief of the General Staff",
+                "type": "internal",
+                "page": "Chief of the General Staff (Tajikistan)"
+              }
+            ]
+          },
+          "native_name": {
+            "text": "Эмомалӣ Собирзода"
+          },
+          "image": {
+            "text": "File:Эмомали Собирзода.jpg"
+          },
+          "predecessor": {
+            "text": "Zarif Bobokalonov",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zarif Bobokalonov"
+              }
+            ]
+          },
+          "president": {
+            "text": "Emomali Rahmon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emomali Rahmon"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "November 24, 2015"
+          },
+          "birth_date": {
+            "text": "July 20, 1972"
+          },
+          "birth_place": {
+            "text": "Vahdat, Tajik SSR, Soviet Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vahdat"
+              },
+              {
+                "type": "internal",
+                "page": "Tajik SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "allegiance": {
+            "text": "🇹🇯 Tajikistan",
+            "links": [
+              {
+                "text": "Tajikistan",
+                "type": "internal",
+                "page": "tajikistan"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Tajik National Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tajik National Army"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1992-present"
+          },
+          "rank": {
+            "text": "Lieutenant General (since February 21, 2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant General"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Tajik Civil War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tajik Civil War"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
