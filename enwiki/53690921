@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Colonel General Sherali Mirzo (Шералӣ Мирзо), born as Sheralishoh Fayzalievich Mirzoev (Шералишоҳ Файзалиевич Мирзоев) is the current Minister of Defense of Tajikistan.",
+              "text": "Colonel General Sheralishoh Fayzalievich Mirzoev (Шералӣ Мирзо) (Шералишоҳ Файзалиевич Мирзоев) is the current Minister of Defense of Tajikistan.",
               "links": [
                 {
                   "text": "Minister of Defense",
@@ -32,7 +32,6 @@
               ],
               "formatting": {
                 "bold": [
-                  "Sherali Mirzo",
                   "Sheralishoh Fayzalievich Mirzoev"
                 ]
               }
