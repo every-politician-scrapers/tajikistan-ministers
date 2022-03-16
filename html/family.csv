@@ -1,10 +1,10 @@
 id,name,relationship,relative,relativename
-Q110160141,Ashrafjon Gulov,father,Q13202276,Sherali Gul
-Q110976749,Rahimjon Saidzoda,sibling,Q20610514,Ҷамшед Саидзода
-Q13202276,Sherali Gul,child,Q110160141,Ashrafjon Gulov
-Q24258837,Rustam Emomali,father,Q57366,Emomali Rahmon
-Q24258837,Rustam Emomali,mother,Q23683291,Azizmo Asadullayeva
-Q24258837,Rustam Emomali,sibling,Q24288561,Ozoda Rahmon
-Q57366,Emomali Rahmon,child,Q24258837,Rustam Emomali
-Q57366,Emomali Rahmon,child,Q24288561,Ozoda Rahmon
-Q57366,Emomali Rahmon,spouse,Q23683291,Azizmo Asadullayeva
+Q110160141,Ashrafjon Gulov,father,Q13202276,
+Q110976749,Rahimjon Saidzoda,sibling,Q20610514,
+Q13202276,Sherali Gul,child,Q110160141,
+Q24258837,Rustam Emomali,father,Q57366,
+Q24258837,Rustam Emomali,mother,Q23683291,
+Q24258837,Rustam Emomali,sibling,Q24288561,
+Q57366,Emomali Rahmon,child,Q24258837,
+Q57366,Emomali Rahmon,child,Q24288561,
+Q57366,Emomali Rahmon,spouse,Q23683291,
