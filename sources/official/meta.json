@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+      "name": "Tajikistan",
+      "id": "Q863"
+    },
+    "cabinet": {
+      "start": "1991-07",
+      "parent": "Q85750014"
+    },
+    "source": {
+        "url":   "http://prezident.tj/en/taxonomy/term/5/35",
+        "title": "COMPOSITION OF THE GOVERNMENT OF THE REPUBLIC OF TAJIKISTAN",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/tajikistan-ministers"
+}
