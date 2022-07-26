@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Permanent Representative of Tajikistan to the United Nations"
+      ],
+      "stated_as": "Permanent Representative of Tajikistan to the United Nations"
+    },
+    "P580": "2005-09",
+    "P1365": {
+      "links": [
+        "Rashid Alimov"
+      ],
+      "stated_as": "Rashid Alimov"
+    },
+    "P582": "2013-08",
+    "P1366": {
+      "links": [
+        "Mahmadamin Mahmadaminov"
+      ],
+      "stated_as": "Mahmadamin Mahmadaminov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs of the Republic of Tajikistan"
+      ],
+      "stated_as": "Minister of Foreign Affairs of the Republic of Tajikistan"
+    },
+    "P580": "2013-11-29",
+    "P1365": {
+      "links": [
+        "Hamrokhon Zarifi"
+      ],
+      "stated_as": "Hamrokhon Zarifi"
+    }
+  }
+]
