@@ -2025,6 +2025,15 @@
                 "page": "Mark of Honour of Heads of State in Central Asia"
               }
             ]
+          },
+          {
+            "text": "Honorary Doctorate in arts by Cairo University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cairo University"
+              }
+            ]
           }
         ]
       ],
@@ -2073,6 +2082,17 @@
         {
           "url": "http://president.tj/en/node/26325",
           "title": "Emomali Rahmon Awarded the Mark of Honour of the Heads of Central Asian States &#124; Президенти Тоҷикистон - President of Tajikistan - Президент Таджикистана - رئيس جمهورية تاجيكستان",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://cu.edu.eg/ar/Cairo-University-News-14062.html",
+          "title": "president of the republic of tajikistan Receives Honorary Doctorate in arts From Cairo University",
+          "publisher": "Cairo University",
+          "date": "12 March 2022",
+          "access-date": "1 August 2022",
+          "archive-url": "http://web.archive.org/web/20220313003215/https://cu.edu.eg/ar/Cairo-University-News-14062.html",
+          "archive-date": "13 March 2022",
           "template": "citation",
           "type": "web"
         }
